@@ -1,0 +1,55 @@
+[2036:8332:2021-10-21 16:33:2.826] Main Start
+[2036:8332:2021-10-21 16:33:2.826] Command line:"C:\Users\Emporer Pulpatine\Downloads\Zoom_cm_fo42pnktZ9vvrZo4_mH3HmZHW+cYyY9d5De-tZSHODirS5fserZPsy@4qvOAGAtpBagPP+R_k046499e55e5f0917_.exe"  Instance:0xEB0000 Show State:1
+[2036:8332:2021-10-21 16:33:2.852] C:\
+[2036:8404:2021-10-21 16:33:2.856] [process_requst] start, url:https://us06web.zoom.us/conf/launch
+[2036:8404:2021-10-21 16:33:3.302] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[2036:8404:2021-10-21 16:33:3.302] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[2036:8404:2021-10-21 16:33:3.304] [log_response_content] Content length (1048576 as unknown):1710 , Total read: 1710 , Error No: 0 , Status code: 200
+[2036:8404:2021-10-21 16:33:3.304] [log_response_content] header:
+[2036:8404:2021-10-21 16:33:3.304] HTTP/1.1 200 
+Date: Thu, 21 Oct 2021 22:33:05 GMT
+Content-Type: text/plain;charset=utf-8
+Content-Length: 1710
+Connection: keep-alive
+x-zm-trackingid: v=2.0;clid=us06;rid=WEB_b5ef3fecae559deb57b7d2fcb2db54e3
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: data: 'self'; object-src 'none'; base-uri 'none';
+X-FRAME-OPTIONS: SAMEORIGIN
+Set-Cookie: zm_aid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_haid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_tmaid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: zm_htmaid=""; Domain=.zoom.us; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: cred=F5ED4CE3B5AD2E1D5CB08EECCC692494; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=us06_c_N1Rvgk4rR-K99nv4uYQXRg; Domain=.zoom.us; Path=/; Secure; HttpOnly
+p3p: CP="NOI ADM DEV PSAi COM NAV OUR OTR STP IND DEM"
+Set-Cookie: _zm_ssid=us06_c_Urd47RrHQp2fMaorKQMMFw; Domain=.zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=TH1idMc8Rdyx80euJLESLw.1634855585353.31aad47017673b93e8ccb2ede43306e3; Domain=.zoom.us; Expires=Fri, 22-Oct-2021 00:33:05 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=302; Domain=.zoom.us; Expires=Fri, 22-Oct-2021 00:33:05 GMT; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+[2036:8404:2021-10-21 16:33:3.304] [process_requst] End for url:https://us06web.zoom.us/conf/launch, return code:200, Error:0, Response content size:1710
+[2036:8332:2021-10-21 16:33:3.364] [client_has_installed_app] found path:
+[2036:8332:2021-10-21 16:33:3.364]  ***NULL-POINTER-PLACEHOLDER***
+[2036:8332:2021-10-21 16:33:3.364] [param_query_local_path] path is: C:\Users\Emporer Pulpatine\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 1008
+[2036:8332:2021-10-21 16:33:3.365] [downloader_run] State:0
+[2036:7892:2021-10-21 16:33:3.365] [process_requst] start, url:https://us06web.zoom.us/client/latest/Installer.exe
+[2036:8332:2021-10-21 16:33:3.365] [client_has_installed_app] found path:
+[2036:8332:2021-10-21 16:33:3.365]  ***NULL-POINTER-PLACEHOLDER***
+[2036:7892:2021-10-21 16:33:3.937] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[2036:7892:2021-10-21 16:33:3.937] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[2036:7892:2021-10-21 16:33:4.138] [read_response_file] Status Code:200, content length: 760616, total read: 760616, error code: 0
+[2036:7892:2021-10-21 16:33:4.142] [process_requst] End for url:https://us06web.zoom.us/client/latest/Installer.exe, return code:200, Error:0, Response content size:0
+[2036:8332:2021-10-21 16:33:4.190] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 200 Error: 0 Response is Empty. 
+[2036:7892:2021-10-21 16:33:4.218] [process_requst] start, url:https://us06web.zoom.us/client/latest/Zoom.msi
+[2036:7892:2021-10-21 16:33:4.529] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[2036:7892:2021-10-21 16:33:4.529] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[2036:7892:2021-10-21 16:33:6.268] [read_response_file] Status Code:200, content length: 16291508, total read: 16291508, error code: 0
+[2036:7892:2021-10-21 16:33:6.396] [process_requst] End for url:https://us06web.zoom.us/client/latest/Zoom.msi, return code:200, Error:0, Response content size:0
+[2036:8332:2021-10-21 16:33:6.454] [handle_download_job_done] Index: 2 Curr index: 2 StatusCode: 200 Error: 0 Response is Empty. 
+[2036:8332:2021-10-21 16:33:6.461] C:\Users\Emporer Pulpatine\AppData\Roaming\Zoom\ZoomDownload\Installer.exe
+[2036:8332:2021-10-21 16:33:6.461] ZInstaller --conf.mode=silent --ipc_wnd=394900
+[2036:8332:2021-10-21 16:33:6.766] [launch_silent_install] Installer process created, result:42
+[2036:8332:2021-10-21 16:33:7.912] Main End
